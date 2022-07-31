@@ -1,9 +1,12 @@
 # Simple code for displaying HDR images on an LDR display using GLFW
 Dependencies
+
 -OpenCV 4.x
+
 -GCC 7.5
 
 Environment
+
 -Ubuntu 20.04
 
 To run the code run the following commands
